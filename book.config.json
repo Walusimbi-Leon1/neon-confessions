@@ -1,0 +1,21 @@
+{
+  "title": "Neon Confessions",
+  "subtitle": "A Novel",
+  "genre": "Cyberpunk noir",
+  "author": "Walusimbi Leon",
+  "description": "A memory-broker in the rain-soaked megacity of Kisima hunts the client who bought her own forgotten past \u2014 and finds a conspiracy wired into the city's dream network.",
+  "style": "Hard-boiled first-person noir with neon-slick simile. Short punchy sentences, long neon descents. Cyberpunk grit.",
+  "characters": "Kali \u2014 memory-broker, ex-cop, haunted; The Archivist \u2014 faceless buyer of stolen lives.",
+  "setting": "Kisima, a vertical African megacity, 2099. Rain always. Neon always.",
+  "notes": "Start in Kali's cramped office above a noodle stall. A client plays her a memory that is hers but she has no recall of. Cold open, high stakes.",
+  "chapterTitle": "Chapter",
+  "mdFiles": [
+    "v2.0/book.md"
+  ],
+  "htmlFiles": [
+    "v2.0/book.html"
+  ],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
