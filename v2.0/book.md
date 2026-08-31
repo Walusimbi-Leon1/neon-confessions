@@ -166,6 +166,138 @@ The rain didn't stop.
 
 Neither did I.
 
+### Chapter 3 — The Weight of Water
+
+The photograph stayed in my hand long after the client's footsteps faded into the drumming rain. My mother's smile was small, almost shy, the way she'd smiled in the few real memories I had of her. But those memories were from a child's height, looking up. This woman in the photograph looked at me at eye level, and there was something in her expression I didn't recognize. Something careful. Something held back.
+
+I'd seen that look before. On witnesses who were about to lie.
+
+The rain kept coming. It always kept coming in Kisima. The city was built on a floodplain that had long since surrendered to the rising water, and the engineers had responded the way engineers always do — they built up instead of out, stacking floors upon floors until the megacity scraped the clouds and the streets became layers of steel and glass and desperate humanity. The rain was the one constant. It washed the streets clean, polished the neon, and erased the bloodstains faster than the cleaners could claim the work.
+
+I put the photograph in my coat pocket. It was heavier than paper should be.
+
+Obi's voice drifted up through the floorboards, muffled by the cheap insulation and the layers of grease that had accumulated over three decades of noodle steam. He was arguing with his wife about something — the price of fish, the rent, the usual. The sounds of normal life happening below me while my world turned inside out.
+
+I went to the window. The neon across the street was still flickering, a dying sign advertising a club that had closed six months ago. The letters said CLUB LAZARUS, which was either a joke or a prophecy. In Kisima, you never knew which.
+
+My reflection in the glass was a ghost — dark skin, darker circles under my eyes, hair cropped close to the skull in the way that made me look either ex-military or recently institutionalized. Both were accurate. The scar on my jaw caught the light, a pale line running from my ear to my chin. I'd gotten it before I lost the badge. I'd gotten it protecting someone who later testified against me.
+
+That was the way of things. You give, you get nothing back. You trust, you get cut.
+
+I pulled the slate from my desk drawer. The one the client had left behind. He'd given it to me to decrypt, but I'd cracked it deeper than he'd expected, and now the memory was mine. The question was what to do with it.
+
+The alley in the memory was real. I'd walked it a thousand times. But the conversation that had happened there — the argument, the accusation, the hooded man who sold my past — that was blank. A hole in my consciousness where something important had been torn out.
+
+I'd always had gaps. Everyone did. Memory was a fragile thing, easily corrupted, easily rewritten. But these weren't the normal gaps of an aging mind or a hard-lived life. These were surgical. Precise. The kind of removals that left no scar tissue, no trace of what had been there beyond the faint impression of absence.
+
+Like a tongue probing the space where a tooth used to be.
+
+I sat back down. The chair groaned. Everything in this office groaned, from the floorboards to the filing cabinet to me. The tilapia smell was getting stronger, mixing with the cigarette smoke that had soaked into the walls over the years. The place smelled like poverty and desperation, but it was mine.
+
+I pulled up the city net on my terminal. The screen flickered, then stabilized into the familiar interface — a jungle of ads, alerts, and encrypted channels. I ignored the noise and went straight to the data I needed: the Registry of Cognitive Assets.
+
+Every memory in Kisima was supposed to be registered. Every memory broker, every corporate memory lab, every black-market dealer who touched the stream of human experience had to file with the Registry. It was a law that had been passed after the Great Collapse, when the corporations had realized that memory was the most valuable resource they'd ever encountered — more valuable than oil, more valuable than data, more valuable than life itself. Because life was finite. Memory could be copied, sold, traded, and weaponized.
+
+I typed in the parameters. Stolen memories, unsanctioned transfers, purchases of personal cognitive material. The Registry was supposed to be a wall. In practice, it was a sieve. But it was a sieve that left breadcrumbs.
+
+The search returned nothing.
+
+I tried again with different parameters — time period, location, the alley where the memory had taken place. Nothing. The system was either clean or cleaned.
+
+That was when I knew this was bigger than one client with strange eyes and a dangerous smile. The Archivist had resources. He had reach. He'd erased my past from the official record, and he'd done it so thoroughly that even the Registry — which was supposed to be immutable — showed no trace of the theft.
+
+I needed help. The kind of help that didn't come cheap and didn't come clean.
+
+I made a call.
+
+The connection took twelve seconds to route through the layers of encryption, bouncing off a dozen relay stations across the continent before settling on a face I hadn't seen in three years. The screen showed a woman with silver hair and a face like a knife's edge. She was sitting in what looked like a broom closet, but the shelves behind her were full of server racks so densely packed they seemed to glow with heat.
+
+"Kali," she said. Her voice was flat, but there was something underneath it. Something that might have been concern. "You've been quiet."
+
+"Never quiet, Odessa. Just selective."
+
+"Selective." She almost smiled. "That's one word for it."
+
+I held up the slate. "I need you to trace a purchase."
+
+She squinted at the screen, adjusting something off-camera. "That's encrypted. Military-grade."
+
+"I cracked it."
+
+"Then you're better than you used to be."
+
+"I had good teachers."
+
+She snorted. "You had me. There's a difference." She leaned closer to her camera. "What's on it?"
+
+"A memory. Mine. Stolen."
+
+The silence that followed was heavy enough to carry across the connection. Odessa had been my partner in the early days, back before she'd gone full hermit and I'd gone full exile. She'd seen me at my worst, and she'd seen me at my best, and she knew what it meant when I said stolen.
+
+"How much of it?" she asked.
+
+"One night. The night everything went wrong."
+
+"The night Merrick died."
+
+I didn't respond. The name hung in the air like smoke.
+
+"Kali," she said, and her voice was softer now. "I told you that night was a mess. I told you to walk away. You didn't listen."
+
+"I remember."
+
+"Do you? Or do you remember what they told you to remember?"
+
+The question was like a blade slipped between my ribs. I'd come to Odessa for help, and she'd answered with a question I didn't want to ask myself.
+
+"The client said the Archivist has my past," I said. "He said it was purchased. Removed. Like a bad tooth."
+
+"The Archivist." She said the name like it tasted bad. "That's not a name you want in your mouth."
+
+"You know him."
+
+"I know of him. Everyone in the deep net knows of him. He's a collector. Not of objects — of identities. He buys lives, Kali. Complete packages. Memories, skills, muscle memory, even the little neural quirks that make a person who they are. He strips them from the source and installs them in a buyer who wants to be someone else."
+
+"And my past is part of his collection."
+
+"Apparently." She paused. "You should be careful. The Archivist doesn't collect anything he doesn't value. If he took your memories, it means you were someone worth being. That's dangerous."
+
+"Everything's dangerous."
+
+"This is a different kind of dangerous."
+
+She was right. I knew she was right. But the photograph in my pocket was burning a hole through my conscience, and the memory on the slate was replaying in my mind — the younger me, the harder me, accusing a hooded man of selling my past.
+
+I was the one who'd sold it, wasn't I? That's what the memory implied. I gave the man my old cases, my old burns, the faces of everyone I'd ever put away. I gave it to him willingly.
+
+Why?
+
+Odessa was still watching me through the screen, her silver hair catching the glow of her servers. "What are you going to do?"
+
+"I'm going to find him."
+
+"The Archivist?"
+
+"No." I looked down at the photograph. My mother's smile, frozen in time. "The man in the memory. The one I gave everything to."
+
+"And then?"
+
+"Then I'm going to ask him what else I forgot."
+
+The connection cut before she could respond. I sat in the darkness of my office, the rain hammering the window, the neon painting the walls in sickly colors, and I thought about holes. About absences. About the shape of a life that had been carved out of someone else's hands.
+
+I thought about my mother, alive in a photograph that shouldn't exist.
+
+I thought about everything I'd forgotten and everything I was about to remember.
+
+The pack of cigarettes was empty. The ashtray was full. The city outside was a cathedral of neon and water, and somewhere in its depths, a man was waiting for me to come looking for answers I wasn't sure I wanted to find.
+
+I stood up.
+
+I put on my coat.
+
+I went out into the rain.
+
 ---
 
 ## About This Book
