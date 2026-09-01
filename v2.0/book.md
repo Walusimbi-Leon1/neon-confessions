@@ -298,6 +298,86 @@ I put on my coat.
 
 I went out into the rain.
 
+### Chapter 4 — The Weight of Rain
+
+The rain hit me like a verdict.
+
+Kisima never slept, but it did dream — and those dreams leaked through the city's neural conduits, painting the streets in colors that didn't exist in nature. Violet. Electric blue. A green that made my teeth ache. The wet asphalt reflected it all, turning the streets into rivers of liquid light, and I walked through them like a ghost haunting its own funeral.
+
+The address on the slate was eleven blocks from my office. Eleven blocks through the meat of the city, past the open-air markets where vendors hawked stolen childhoods in glass vials, past the dream parlors with their flickering neon eyes, past the gutter preachers who screamed about the sanctity of the soul while selling their own congregations' prayers on the black market. Eleven blocks of noise and desperation and the constant, dripping weight of water that never stopped falling in this city.
+
+I'd been in Kisima for fifteen years. I still wasn't used to the rain.
+
+The building I stopped in front of was a corpse — a skeletal tower of concrete and rust that had been abandoned during the Great Collapse and never reclaimed. The windows were shattered, the entrance a gaping wound that led into darkness. But the slate hummed in my pocket, vibrating with proximity, and I knew that the man from my memory was somewhere inside.
+
+I'd changed since the memory. My hands were older, scarred from years of work I couldn't remember doing. My body was harder in some places, softer in others, a testament to a life that had been partially erased. But the instinct was still there — the cop's instinct, the hunter's instinct, the thing that had kept me alive long enough to become a memory broker in a city that ate its children whole.
+
+I went in.
+
+The lobby was filled with the smell of mold and old blood. The elevators were dead, so I took the stairs — twelve flights of crumbling concrete and rusted railings, each step echoing in the darkness like a heartbeat. My coat was heavy with rain. My pistol was heavy with purpose. Neither was enough to stop the shaking in my hands.
+
+The memory had shown me the man's face — or what I'd been able to see of it. A hood. A shadow. A voice that had been altered by technology until it sounded like gravel and static. But the slate had directions, and directions were better than faces.
+
+I found the door on the seventh floor. It was new — steel reinforced, with a keypad that glowed green in the darkness. Someone had been spending money on this place. Someone had been preparing for company.
+
+I didn't knock. I kicked the door in.
+
+The room inside was a shrine.
+
+Hundreds of screens lined the walls, each one displaying a different memory — a child's birthday party, a soldier's last moments, a woman's wedding day, a man's first kiss. They flickered and danced in the darkness, a constellation of stolen moments that made my skin crawl. In the center of the room, on a chair made of what looked like human vertebrae, sat the man from my memory.
+
+He was older than I remembered. That was the first thing I noticed. His face was a roadmap of wrinkles and scars, and his eyes — his eyes were the color of old blood, watching me with a calm that made my trigger finger itch. He was wearing the same hood from the memory, but he'd pulled it back, revealing a skull that had been shaved clean and tattooed with circuitry.
+
+"Kali," he said. His voice was smooth. Too smooth. "I've been expecting you."
+
+"You have a name?"
+
+"I have many." He smiled. "But you can call me Mwangi. It's the name I was born with, before the world decided I should be someone else."
+
+"You sold my past."
+
+"I didn't sell it." He stood up, and I saw that he was taller than I'd thought — a giant of a man, built like a mountain that had learned to walk. "I preserved it. There's a difference, though I understand why you might not see it."
+
+"Explain it to me."
+
+"Your memories weren't taken to hurt you. They were taken to protect you." He gestured to the screens around us. "I collect lives, Kali. I preserve them. The people who buy from me are looking for escape — from their own minds, their own pasts, their own failures. I give them a new skin to wear."
+
+"And my skin was worth selling."
+
+"Your skin was worth keeping." He stepped closer, and I didn't move. The pistol was in my hand, but I hadn't raised it. Something in his eyes told me I wouldn't need it. "You were a cop. You were a good cop, as far as cops go. But you were also a witness."
+
+"To what?"
+
+"To the night Kisima changed its mind."
+
+The words hung in the air like a challenge. I'd heard rumors about the city's dream network — the massive neural grid that connected every citizen's subconscious, allowing corporations to harvest emotions, implant desires, and erase inconvenient truths. But I'd never heard anyone talk about it like this. Like it was alive.
+
+"I was at the Merrick scene," I said. "I remember that much."
+
+"You remember what they let you remember."
+
+"And you know what I forgot."
+
+"I know what you gave away." He reached into his coat and pulled out a small data chip, the kind that sold for a fortune on the black market. "I have it here. Your memories of that night — the real ones, the ones that were too dangerous to keep in your own head. You gave them to me for safekeeping. You were supposed to forget."
+
+"Supposed to?"
+
+"Something went wrong." His mouth twisted. "The Archivist got wind of my collection. He wanted your memories for himself. He paid me more than I could refuse. I sold him a copy — but I kept the original. I knew you'd come looking eventually."
+
+"Then give it to me."
+
+"Give it to you?" He laughed, and the sound was like rocks grinding together. "Kali, if I give you that chip, you'll remember everything. And I mean everything — the whole truth, not just the fragments you've been holding together with lies. Are you ready for that?"
+
+I looked at the chip in his hand. It was small. It was light. It contained everything I'd lost — every face, every name, every moment I'd spent running from the truth. And I was terrified of it.
+
+But I'd come this far.
+
+"What else did I forget?" I asked.
+
+Mwangi's smile faded. He looked at me for a long moment, his old blood eyes searching my face like he was looking for something he'd lost. Then he pressed the chip into my palm.
+
+"Your mother," he said. "She's not dead. She's in the dream network — the deep layer, the part that's been corrupted by the Archivist's experiments. She's been there for twenty years, Kali. And she's been waiting for you to come find her."
+
 ---
 
 ## About This Book
